@@ -1,0 +1,623 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Basics of Finite Element Methods",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-1-introduction",
+    "href": "index.html#chapter-1-introduction",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 1: Introduction",
+    "text": "Chapter 1: Introduction\n\nConceptualization and Mathematical models\nValidation\nDiscretization\nVerification",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-2-an-outline-of-the-finite-element-method",
+    "href": "index.html#chapter-2-an-outline-of-the-finite-element-method",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 2: An outline of the finite element method",
+    "text": "Chapter 2: An outline of the finite element method\n\nMathematical model in one dimension\n\nElastic bar\nConceptualization\nValidation\n\nApproximate solution\nGeneralized formulation in one dimension\n\nEssential boundary condition\nNeumann boundary condition\nRobin boundary condition\n\nFEM in one dimension\n\nThe standard element\nThe standard polynomial space\nFinite element spaces\nComputation of element matrices\nComputation of element vectors\nAssembly\nTreatment of the essential boundary conditions\nSolution\nPost-processing\n\nProperties of generalized formulation\n\nUniqueness\nPotential energy\nErrors\nContinuity\nConvergence\n\nError estimations",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-3-formulation-of-mathematical-models",
+    "href": "index.html#chapter-3-formulation-of-mathematical-models",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 3: Formulation of mathematical models",
+    "text": "Chapter 3: Formulation of mathematical models\n\nPartial differential equations\nSome elements of functional analysis\n\nVector space and subspaces\nMetric spaces\nInner product spaces\nNorm spaces\nLinear functionals\nBilinear forms\nConvergence\nLegendre polynomials\nAnalytical functions\n\nHeat conduction\n\nGoverning equations\nBoundary and initial conditions\nSymmetry, antisymmetry and periodicity\nDimensional reduction\n\nThe scalar elliptic boundary value problem\nLinear elasticity\n\nThe Navier equations\nBoundary and intial conditions\nSymmetry, antisymmetry and periodicity\nDimensional reduction\n\nIncompressible elastic materials\nStokes flow\nThe hierarchic view of mathematical models",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-4-generalized-formulations",
+    "href": "index.html#chapter-4-generalized-formulations",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 4: Generalized formulations",
+    "text": "Chapter 4: Generalized formulations\n\nThe scalar elliptic problem\n\nContinuity\nExistence\nApproximation by FEM\n\nThe principle of virtual work\nElastostatic problems\nElastodynamic models\nIncompressible materials\n\nThe saddle point problem\nPoisson’s ratio locking\nSolvability",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-5-finite-element-spaces",
+    "href": "index.html#chapter-5-finite-element-spaces",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 5: Finite element spaces",
+    "text": "Chapter 5: Finite element spaces\n\nStandard elements in 2D\nStandard polynomial spaces\n\nTrunk spaces\nProduct spaces\n\nShape functions\n\nLagrange-shape functions\nHierarchic shape functions\n\nMapping functions in two dimensions\n\nIsoparametric mapping\nMapping by blending function method\nMapping of high-order elements\nRigid body rotations\n\nElements in 3D\nIntegration and differentiation\n\nVolume and area integral\nSurface and contour integrals\nDifferentiations\n\nStiffness matrix and load vectors",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-6-regularity-and-rate-of-convergence",
+    "href": "index.html#chapter-6-regularity-and-rate-of-convergence",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 6: Regularity and rate of convergence",
+    "text": "Chapter 6: Regularity and rate of convergence\n\nRegularity\nClassification\nBehavior near singularities\nRate of convergence",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-7-computation-aand-vericfication-of-data",
+    "href": "index.html#chapter-7-computation-aand-vericfication-of-data",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 7: Computation aand vericfication of data",
+    "text": "Chapter 7: Computation aand vericfication of data\n\nComputation of the solution and its first derivatives\nNodal forces\n\nNodal forces in h-version\nNodal forces in p-version\nNodal forces and stress resultants\n\nVerification of computed data\nFlux and stress intensity factors",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-8-beam-plates-and-shell",
+    "href": "index.html#chapter-8-beam-plates-and-shell",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 8: Beam, plates and shell",
+    "text": "Chapter 8: Beam, plates and shell\n\nBeams\n\nThe Timoshenko beam\nThe Bernoulli-Euler beam\n\nPlates\n\nThe Reissner-Mindlin plate\nThe Kirchhoff plate\nEnforcement of continuity\n\nShells\nThe Oak-Ridge experiments",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#chapter-9-nonlinear-models",
+    "href": "index.html#chapter-9-nonlinear-models",
+    "title": "Basics of Finite Element Methods",
+    "section": "Chapter 9: Nonlinear models",
+    "text": "Chapter 9: Nonlinear models\n\nHeat conduction\n\nRadiation\nNonlinear material properties\n\nSolid mechanics\n\nLarge strain and rotation\nStructural stability and stress stiffening\nPlasticity\nMechanical contact",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Conceptualization and Mathematical models\nConceptualization is a process through which we idealize an engineering problem in the physical reality. The error induced due to the conceptualization is called the error due to the idealization.\nThe goal of conceptualization is to identify the simplest mathematical model that can provide predictions of the data of interest within a specified range of accuracy. In other words, the error due to the idealization should be as small as possible.\nA numerical simulation requires an underlying mathematical model. Mathematical models are mathematical description of the idealized problem, which we have obtained through the process of conceptualization. In mechanics, these mathematical models are described by the sets of differential equations and boundary and initial conditions. These differential equations are collectively called as the governing equations of the problem.\nFurther, the development of a mathematical model is not a trivial task, and following questions often help us in preparing the mathematical model.\nFor example, in solid mechanics, we often estimates displacements, stresses, strains, natural frequencies, etc., for a given computation domain, stress-strain model, and boundary conditions. The mathematical model is given by a set of partial differential equations (PDEs), which are obtained by satisfying:\nThe mathematical model obtained by satisfying the above conservation principals will yield a general description of the problem in the mechanics. These governing equations are valid for solids, liquids, and gases. However, in my opinion these models are computationally useless unless we make valid assumptions to simplify them to an extent so that they are computationally feasible. These assumptions are made while considering the material behavior, mode of deformation, dimensional reduction, etc.\nFor example, the usual beam, plate and shell model (theory) are special cases of a model based on the three-dimensional linear theory of elasticity, which in turn is a special case of a large family of models based on the equations of continuum mechanics. This is what we called the Hierarchic view of mathematical models.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#conceptualization-and-mathematical-models",
+    "href": "intro.html#conceptualization-and-mathematical-models",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "The Flow of Numerical Simulations\n\n\n\n\n\n\n\n\n\n\nIt is important to note that the mathematical models are the idealized representations of the reality, and we should never be confused with the physical reality that these models are supposed to represent.\n\n\n\n\n\nWhat aspects, features or phenomena of physical reality are of interest?\nWhat data must be predicted?\nWhat accuracy is required?\n\n\n\nconservation of linear and angular momentum\nconservation of mass\nconservation of energy\n\n\n\n\n\n\n\n\n\nExample\n\n\n\nIn practice we often starts from a very simple model, and then add challenging features in the model to capture the reality as accurately as possible.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#validation",
+    "href": "intro.html#validation",
+    "title": "1  Introduction",
+    "section": "1.2 Validation",
+    "text": "1.2 Validation\nAt this point we know that a mathematical model represents the idealization of an engineering problem. Therefore, every mathematical model has some error due to this idealization (or conceptualization). Validation is a process by which the numerical results of a mathematical model are tested against the experimental data. Through validation process we can estimate the error of conceptualization and we can have an idea about the predictive capabilities of the model.\nIf the error induced by the model is smaller than tolerance limit, then we can say that the model has passed the validation test. Otherwise, we need to improve the mathematical model until it passes the validation test.\nDepending upon the problem, such as design of an aircraft or design of a concrete dam, a series of validation experiments are performed. These validation experiments include the determination of physical properties and failure criteria for entire structure, sub-components, parts, etc.\nWhile assessing the results of validation experiments it is important to consider the limitations and uncertainties associated with the available information concerning the physical system being modeled.\n\nThe computation domain is usually assumed to corresponds to design specification. In reality, parts, sub-components and assemblies can deviate from their specifications and the degree of deviation may not be know, or would be difficult to incorporate into a model. For example, a concrete dam or earthen dam has many components, joints and heterogeneity, which may be too complex to include in a mathematical model.\nThe exact spatial-temporal distribution of the material properties may not be known accurately. Moreover, for many materials the constitutive laws are not known accurately.\nThe boundary conditions may not be known with a high degree of precision.\nThe magnitude of residual stresses inside the material may be not be known.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#discretization",
+    "href": "intro.html#discretization",
+    "title": "1  Introduction",
+    "section": "1.3 Discretization",
+    "text": "1.3 Discretization\nOnce the mathematical model is ready, we use numerical methods to solve the problem by using computers. The finite element method (FEM) is one of the most powerful and widely used numerical methods for finding approximate solutions to mathematical models. In FEM, the computation domain is divided into several elements of simple shapes such as triangle, quadrangle, tetrahedron, hexahedron, among others.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#verification",
+    "href": "intro.html#verification",
+    "title": "1  Introduction",
+    "section": "1.4 Verification",
+    "text": "1.4 Verification\nIn the verification process we verify that\n\nthe input data are correct\nthe computer code is functioning properly\nthe numerical errors in the computed solution is lower than the accepted limit",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html",
+    "href": "outline-of-fem/mathematical-model.html",
+    "title": "Mathematical model in one dimension",
+    "section": "",
+    "text": "The linear elastic bar problem\nIn this chapter we will consider a simple mathematical model and demonstrate how FEM works.\nConsider an elastic bar problem as shown in Figure below. The Young’s modulus and the area of cross section of the bar are \\(E\\) and \\(A\\), respectively. \\(\\sigma\\) is the Cauchy-stress, and \\(T_{b}\\) is the body force per unit length in the x direction acting along the length of the bar.\nThe equilibrium equations for the bar is given by\n\\[\n\\left(\\sigma+\\Delta\\sigma\\right)\\left(A+\\Delta A\\right)-\\sigma A+T_{b}(x)\\Delta x=0\n\\]\n\\[\n\\frac{\\Delta\\left(\\sigma A\\right)}{\\Delta x}+\\Delta\\sigma\\frac{\\Delta A}{\\Delta x}+T_{b}(x)=0\n\\]\ntaking \\(\\Delta x \\rightarrow 0\\), and noting that\n\\[\n\\lim_{\\Delta x\\rightarrow0}\\frac{\\Delta\\sigma\\Delta A}{\\Delta x}=0\n\\]\nwe get\n\\[\n\\frac{d\\sigma A}{dx}+T_{b}(x)=0\n\\]\nThe Cauchy stress is given by Hooke’s law of linear elasticity,\n\\[\n\\sigma = E\\varepsilon_{xx}\n\\]\nwhere, \\(\\varepsilon_{xx}\\) is the strain in x direction, which is given by\n\\[\n\\varepsilon_{xx}=\\frac{du}{dx}\n\\]\nwhere, \\(u(x)\\) is the displacement at point \\(x\\). Then, the governing equation becomes\n\\[\n\\frac{d}{dx}\\left( AE\\frac{du}{dx}\\right)+T_{b}(x)=0\n\\]\nThe above equation describes the deformation of an elastic bar.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#the-linear-elastic-bar-problem",
+    "href": "outline-of-fem/mathematical-model.html#the-linear-elastic-bar-problem",
+    "title": "Mathematical model in one dimension",
+    "section": "",
+    "text": "Figure 1: One dimensional bar",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#the-linear-thermo-elastic-bar-problem",
+    "href": "outline-of-fem/mathematical-model.html#the-linear-thermo-elastic-bar-problem",
+    "title": "Mathematical model in one dimension",
+    "section": "The linear thermo-elastic bar problem",
+    "text": "The linear thermo-elastic bar problem\nWhen the temperature is not uniform, then the bar may expand or contracts depending upon the increase or decrease of the temperature around a point. In such situations, the total elastic strain in the bar is given by\n\\[\n\\varepsilon_{xx}=\\frac{du}{dx}-\\alpha \\Delta T\n\\] where, \\(\\alpha\\) is the linear thermal expansion of the bar, and \\(\\Delta T\\) is the increase in the temperature.\nThe governing equation now becomes:\n\\[\n\\frac{d}{dx}\\left(AE\\frac{du}{dx}\\right)+T_{b}(x)-\\frac{d}{dx}\\left(AE\\alpha\\Delta T\\right)=0\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#the-linear-thermo-elastic-bar-with-spring-forces",
+    "href": "outline-of-fem/mathematical-model.html#the-linear-thermo-elastic-bar-with-spring-forces",
+    "title": "Mathematical model in one dimension",
+    "section": "The linear thermo-elastic bar with spring forces",
+    "text": "The linear thermo-elastic bar with spring forces\nThe traction force in the horizontal direction is given by the spring forces as shown below. The one end of the spring is connected to the surface of the bar, hence it has same displacement as the bar, that is \\(u(x)\\). The displacement of the other end of the spring is denoted by \\(d(x)\\). Let the spring constant be \\(k_{s}(x)N/m^2\\) , then the traction force per unit length of the bar is given by\n\\[\nT_{s}(x)=-k_{s}(x)\\left \\{ u(x)-d(x) \\right \\}\n\\]\n\n\n\n\n\n\nFigure 2: One dimensional thermo-elastic bar\n\n\n\nThe governing equations are given by\n\\[\n\\frac{d}{dx}\\left(AE\\frac{du}{dx}\\right)-k(x)u+T_{b}(x)-\\frac{d}{dx}\\left(AE\\alpha\\Delta T\\right)+k(x)d(x)=0\n\\]\nwhich becomes\n\\[\n\\frac{d}{dx}\\left(AE\\frac{du}{dx}\\right)-k_{s}(x)u+T_{b}(x)-\\frac{d}{dx}\\left(AE\\alpha\\Delta T\\right)+k_{s}(x)d(x)=0\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#boundary-conditions",
+    "href": "outline-of-fem/mathematical-model.html#boundary-conditions",
+    "title": "Mathematical model in one dimension",
+    "section": "Boundary conditions",
+    "text": "Boundary conditions\n\nDisplacement boundary condition at both ends\nIt is possible to prescribe the displacement boundary conditions, also known as the essential boundary conditions, at both ends of the bar:\n\\[\nu(0)=u_{0}\n\\]\n\\[\nu(L)=u_{L}\n\\]\n\n\nNeumann boundary conditions at both ends\nIt is also possible to specify the value of external forces acting on each end of the bar.\n\\[\nAE\\left(\\frac{du}{dx}-\\alpha\\Delta T\\right)\\vert_{x=0}=F_{0}\n\\]\n\\[\nAE\\left(\\frac{du}{dx}-\\alpha\\Delta T\\right)\\vert_{x=L}=F_{L}\n\\]\n\n\nSpring boundary conditions\n\\[\nAE\\left(\\frac{du}{dx}-\\alpha\\Delta T\\right)\\vert_{x=0}=k_{0}\\left(u(0)-d_{0}\\right)\n\\]\n\\[\nAE\\left(\\frac{du}{dx}-\\alpha\\Delta T\\right)\\vert_{x=L}=k_{L}\\left(u(L)-d_{L}\\right)\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#symmetry",
+    "href": "outline-of-fem/mathematical-model.html#symmetry",
+    "title": "Mathematical model in one dimension",
+    "section": "Symmetry",
+    "text": "Symmetry\n\n\n\n\n\n\nExample 1\n\n\n\nA scalar function defined on a line interval is symmetric if it has same value on the symmetrically located points with respect to the line of symmetry.\n\n\n\n\n\n\n\n\nExample 2\n\n\n\nA vector function is called symmetric if at symmetrically located points it has the same absolute values, the components in the perpendicular direction to the line of symmetry are equal and have opposite sign; the components in parallel direction to the line of symmetry have the same sign and the magnitude.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#antisymmetry",
+    "href": "outline-of-fem/mathematical-model.html#antisymmetry",
+    "title": "Mathematical model in one dimension",
+    "section": "Antisymmetry",
+    "text": "Antisymmetry\n\n\n\n\n\n\nExample 1\n\n\n\nA scalar function defined on a line interval is antisymmetric if it has same magnitude and opposite sign on the points which are symmetrically located with respect to the line of symmetry.\n\n\n\n\n\n\n\n\nExample 2\n\n\n\nA vector function is called antisymmetric if at symmetrically located points it has the same absolute values, the components in the perpendicular direction to the line of symmetry has same magnitude and sign; the components in parallel direction to the line of symmetry are equal and have opposite sign.\n\n\nWhen the solution is a symmetric or antisymmetric function then the problem can be solved on half of the interval and extended to the entire interval by symmetry or antisymmetry.\n\n\n\n\n\n\nMathematical model\n\n\n\nGoverning equation, together with specific boundary conditions, forms a mathematical model of an elastic bar. The analyst can have following goals to solve this problem:\n\nFinding the displacement field \\(u(x)\\)\nThe axial strain \\(\\frac{du}{dx}\\)\nThe axial force \\(AE(\\frac{du}{dx}-\\alpha T)\\)\n\nThis mathematical model involves following key assumptions:\n\nThe strain in the bar is very small so that the deformed configuration of the bar is nearly same as the initial configuration of the bar\nThe small-strain linear elastic model is applicable to model the stress-strain behavior.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/mathematical-model.html#exercises",
+    "href": "outline-of-fem/mathematical-model.html#exercises",
+    "title": "Mathematical model in one dimension",
+    "section": "Exercises",
+    "text": "Exercises\n\nSee exercise 2.1.1, 2.1.2 and 2.1.3 in the book by Szabo and Babuska (2011).",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Mathematical model in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html",
+    "href": "outline-of-fem/conceptualization.html",
+    "title": "Conceptualization",
+    "section": "",
+    "text": "Model A\nConsider an engineering problem of designing the foundation of a high-raise building. The pile transfers some of the load due to the building to the surrounding soils through shearing process. In addition, the pile transfer some of the loads to the soils at the greater depth. The building is resting on the piles, therefore, the engineer should ensure that the pile should not experience the excessive settlements. In this context, it is important to ensure that the pile has sufficient stiffness so that the elastic deformations in the piles are in permissible limits.\nThe mathematical model for the pile can be given by\n\\[\n-AE\\frac{d^{2}u}{dy^{2}}+k_{s}(y)u=0\n\\]\nwhere,\nAlso, note that the downward direction is taken as positive.\nUnder compressible forces following boundary conditions can be consider to complete the model:\n\\[\nAE\\frac{du}{dy}=F_{0},\\quad \\text{at } y=0\n\\]\n\\[\nu(L)=0\n\\]\nUnder tensile forces following boundary conditions can be considered.\n\\[\nAE\\frac{du}{dy}=F_{0},\\quad \\text{at } y=0\n\\]\n\\[\n\\frac{du}{dy}=0,\\quad \\text{at } y=L\n\\] Our goal is to predict the displacement of the pile at \\(y=0\\), when the pile is subjected to tensile forces (pull-out).\nIn model A we assume that \\(k_{s}\\) is constant. Then the solution of the problem is given by following.\n\\[\nu(y)=\\frac{F_{0}}{AE\\lambda}\\frac{e^{\\lambda y}+e^{\\lambda\\left(2L-y\\right)}}{1-e^{2\\lambda L}}\n\\]\nand,\n\\[\n\\frac{du}{dy}=\\frac{F_{0}\\lambda}{AE\\lambda(1-e^{2\\lambda L})}\\left(e^{\\lambda y}-e^{\\lambda\\left(2L-y\\right)}\\right)\n\\]\nalso,\n\\[\nu_0=-u(0)=-\\frac{F_{0}}{AE\\lambda}\\frac{1+e^{\\lambda2L}}{1-e^{2\\lambda L}}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html#calibration-of-model-a",
+    "href": "outline-of-fem/conceptualization.html#calibration-of-model-a",
+    "title": "Conceptualization",
+    "section": "Calibration of model A",
+    "text": "Calibration of model A\nAt this point we do not know the value of \\(k_s\\), or \\(\\lambda=k_{s}/AE\\). In order to find this value, we conduct the pull out test and find the relation between \\(F_0\\) and \\(u_0\\). Let us denote \\(E_{0}=F_{0}/u_0\\).\nThen,\n\\[\n\\frac{F_{0}}{u_{0}}=-AE\\lambda\\frac{1-e^{\\lambda2L}}{1+e^{2\\lambda L}}\n\\]\nor,\n\\[\nf(\\lambda):=E_{0}(1+e^{2\\lambda L})+AE\\lambda(1-e^{2\\lambda L})=0\n\\]\nThis is a nonlinear equation in \\(\\lambda\\), which can be find by using the Newton-Raphson method. In this way we find the value of \\(\\lambda\\) and \\(k_{s}\\), use the model to predict the response of pile under tension. See [[#Appendix]].",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html#model-b",
+    "href": "outline-of-fem/conceptualization.html#model-b",
+    "title": "Conceptualization",
+    "section": "Model B",
+    "text": "Model B\nIn model B, it is assumed that \\(k_{s}=ky\\). Then the governing equation becomes:\n\\[\n-AE\\frac{d^{2}u}{dy^{2}}+kyu=0\n\\]\nor,\n\\[\n-\\frac{d^{2}u}{dy^{2}}+\\lambda^2 yu=0\n\\]\nwhere,\n\\[\n\\lambda = \\sqrt{\\frac{k}{AE}}\n\\]\nThe boundary conditions are\n\\[\n\\frac{du}{dy}\\vert_{y=0}=F_{0}/AE\n\\]\n\\[\n\\frac{du}{dy}\\vert_{y=L}=0\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html#calibration-of-model-b",
+    "href": "outline-of-fem/conceptualization.html#calibration-of-model-b",
+    "title": "Conceptualization",
+    "section": "Calibration of model B",
+    "text": "Calibration of model B\nNoting that\n\\[\n\\frac{d^{2}u}{dy^{2}}=\\lambda^{2}yu\n\\]\n\\[\n\\frac{d^{3}u}{dy^{3}}=\\lambda^{2}u+\\lambda^{2}y\\frac{du}{dy}\n\\]\n\\[\n\\frac{d^{4}u}{dy^{4}}=2\\lambda^{2}\\frac{du}{dy}+\\lambda^{2}y\\frac{d^{2}u}{dy^{2}}\n\\]\n\\[\n\\frac{d^{5}u}{dy^{5}}=3\\lambda^{2}\\frac{d^{2}u}{dy^{2}}+\\lambda^{2}y\\frac{d^{3}u}{dy^{3}}\n\\]\nThen,\n\\[\n\\frac{d^{k}u}{dy^{k}}=(k-2)\\lambda^{2}\\frac{d^{k-3}u}{dy^{k-3}}+\\lambda^{2}y\\frac{d^{k-2}u}{dy^{k-2}}\n\\]\nThe Taylor series expansion of \\(u(x)\\) is given by\n\\[\nu(y) = -u_0 + \\frac{F_0}{AE}y - \\frac{\\lambda^2}{3!}u_0 y^3 + \\frac{2\\lambda^2}{4!} \\frac{F_0}{AE}y^4-\\frac{4\\lambda^4}{6!} u_0 y^6+\\cdots\n\\]\nNow by using \\(\\frac{du}{dy}\\vert_{y=L}=0\\) and the experimentally measured value of \\(F_{0}/u_{0}\\), we can obtain \\(\\lambda\\) by solving following nonlinear equation\n\\[\n\\frac{F_0}{AE} - \\frac{\\lambda^2}{2}u_0 L^2 + \\frac{2\\lambda^2}{3!} \\frac{F_0}{AE}L^3-\\frac{4\\lambda^4}{5!} u_0 L^5+\\cdots=0\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html#validation-of-model-a-and-model-b",
+    "href": "outline-of-fem/conceptualization.html#validation-of-model-a-and-model-b",
+    "title": "Conceptualization",
+    "section": "Validation of model A and model B",
+    "text": "Validation of model A and model B\n\nTODO Add validation of model A and model B.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/conceptualization.html#appendix",
+    "href": "outline-of-fem/conceptualization.html#appendix",
+    "title": "Conceptualization",
+    "section": "Appendix",
+    "text": "Appendix\nThe following code calibrate the model A. Material properties are taken from Szabo and Babuska (2011), Chapter 2.\nprogram main\n  implicit none\n\n  real, parameter :: E0 = 22.22E+6\n  real, parameter :: E = 200.0E+9\n  real, parameter :: A = 1.402E-2\n  real, parameter :: L = 12.0\n  real, parameter :: resTol = 1.0E-6\n  real :: f, df, lam, dlam\n  integer, parameter :: maxIter = 100\n  integer :: ii\n  logical :: isconvg\n  !!\n  !! initial guess\n  !!\n  lam = 1.0; dlam = 0.0; isconvg = .FALSE.\n  !!\n  do ii = 1, maxIter\n    f =   E0 &\n      & + E0 * EXP( 2.0 * L * lam ) &\n      & + A * E * lam &\n      & - A * E * lam * EXP( 2.0 * L * lam )\n    !!\n    !! check convergence\n    !!\n    if( abs( f ) .LE. resTol ) then\n      write( *, \"(a)\" ) \"Convergence achieved\"\n      isconvg = .TRUE.\n      exit\n    else\n      write( *, \"(a, I6)\" ) \"Iteration = \", ii\n      write( *, \"(a, F16.6)\" ) \"residual = \", f\n      write( *, \"(a, F15.6)\" ) \"lam = \", lam\n      write( *, * ) \"\"\n      write( *, * ) \"\"\n    end if\n    !!\n    df = &\n      & 2.0 * E0 * L * EXP( 2.0 * L * lam ) &\n      & + A * E &\n      & - A * E * EXP( 2.0 * L * lam ) &\n      & - 2.0 * A * E * L * lam * EXP( 2.0 * L * lam )\n    !!\n    !! calculate dlam\n    !!\n    dlam = -f / df\n    !!\n    !! update lam\n    !!\n    lam = lam + dlam\n    !!\n  end do\n  !!\n  !! print results\n  !!\n  if( isconvg ) then\n    write( *, \"(a, F12.6)\" ) \"lambda = \", lam\n    write( *, \"(a, F12.6)\" ) \"ks = \", lam*lam*A*E\n  else\n    write( *, \"(a)\" ) \"No convergence, may be increase maxIter\"\n    write( *, \"(a, F12.6)\" ) \"lambda = \", lam\n    write( *, \"(a, F12.6)\" ) \"ks = \", lam*lam*A*E\n  end if\n  !!\nend program main",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Conceptualization</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/approximate-solution.html",
+    "href": "outline-of-fem/approximate-solution.html",
+    "title": "Approximate solution",
+    "section": "",
+    "text": "Basis function\nConsider the following elliptic differential equation\n\\[\n-\\frac{d}{dx}\\left(\\nu\\frac{du}{dx}\\right)+ku-f(x)=0,\\text{ on }x\\in\\left[0,L\\right]\n\\]\nwhere, \\(\\nu &gt; 0\\) and \\(k\\ge 0\\). In this equation u can be a scalar or a vector. We will consider homogeneous essential boundary condition for simplicity, that is,\n\\[\nu(0)=u(L)=0\n\\]\nLet us approximate the solution by following expression.\n\\[\nu_{N}(x)=\\sum_{i=1}^{N}a_{i}\\phi_{i}\\left(x\\right)\n\\]\nwhere, \\(a_{i}\\) are coefficients which we want to find, and \\(\\phi_{i}\\) is the basis function:\n\\[\n\\phi_{i}(x)=x^{i}(L-x)\n\\]\nnot that, this function satisfy \\(\\phi_{i}(0)=\\phi_{i}(L)=0\\), therefore, \\(u_{N}(x)\\) also satisfy the boundary condition.\nThe error is defined by\n\\[\ne_{N}(x)=u(x)-u_N(x)=u(x)-\\sum_{i=1}^{N}a_{i}\\phi_{i}\\left(x\\right)\n\\]\nConsider the following functional for error\n\\[\n\\mathcal{I}:=\\frac{1}{2}\\int_{0}^{L}\\nu\\left(\\frac{de_{N}}{dx}\\right)^{2}dx+\\frac{1}{2}\\int_{0}^{L}ke_{N}^{2}dx\n\\]\nWe determine \\(a_{i}\\) by minimizing the above functional, that is,\n\\[\n\\frac{\\partial\\mathcal{I}}{\\partial a_{i}}=0\n\\]\nThis will yield \\(N\\) equation of the following form:\n\\[\n\\int_{0}^{L}\\nu\\frac{de_{N}}{dx}\\frac{d}{da_{i}}\\left(\\frac{de_{N}}{dx}\\right)dx+\\int_{0}^{L}ke_{N}\\frac{de_{N}}{da_{i}}dx=0\n\\]\nNoting that\n\\[\n\\begin{aligned}\\frac{\\partial e_{N}(x)}{\\partial a_{i}} & =\\frac{\\partial\\left(u(x)-\\sum_{j=1}^{N}a_{j}\\phi_{j}\\left(x\\right)\\right)}{\\partial a_{i}}\\\\ & =-\\sum_{j=1}^{N}\\frac{\\partial a_{j}}{\\partial a_{i}}\\phi_{j}\\left(x\\right)\\\\ & =-\\phi_{i}\\left(x\\right) \\end{aligned}\n\\]\nwe get:\n\\[\n\\int_{0}^{L}\\nu\\frac{de_{N}}{dx}\\frac{d\\phi_{i}}{dx}dx+\\int_{0}^{L}ke_{N}\\phi_{i}dx=0\n\\]\n\\[\n\\begin{aligned}\\int_{0}^{L}\\nu\\frac{du_{N}}{dx}\\frac{d\\phi_{i}}{dx}dx+\\int_{0}^{L}ku_{N}\\phi_{i}dx & =\\int_{0}^{L}\\left(\\nu\\frac{du}{dx}\\frac{d\\phi_{i}}{dx}+ku\\phi_{i}\\right)dx\\\\ & =\\int_{0}^{L}\\left(-\\nu\\frac{d^{2}u}{dx^{2}}\\phi_{i}+ku\\phi_{i}\\right)dx \\end{aligned}\n\\] In the second step we have employed integration by parts and the fact that \\(\\phi_{i}\\) vanishes at the boundary. Finally we can obtain the following system of linear equations.\n\\[\n\\int_{0}^{L}\\nu\\frac{du_{N}}{dx}\\phi_{i}dx+\\int_{0}^{L}ku_{N}\\phi_{i}dx=\\int_{0}^{L}f(x)\\phi_{i}dx, \\text{ for } i=1,N\n\\]\nIn matrix form\n\\[\n\\mathbf{K}\\mathbf{a}=\\mathbf{F}\n\\]\nwhere \\(\\mathbf{a}=\\left\\{ a_1, a_2, \\cdots, a_{N}\\right \\}\\) and\n\\[\nK_{ij}=\\int_{0}^{L}\\nu\\frac{d\\phi_{j}}{dx}\\frac{d\\phi_{i}}{dx}dx+\\int_{0}^{L}k\\phi_{j}\\phi_{i}dx\n\\]\n\\[\nF_{i}=\\int_{0}^{L}f(x)\\phi_{i}dx\n\\]\n\\(\\phi_{i}\\) are called the basis function, which means these N basis functions are linearly independent. That is, if\n\\[\n\\sum_{i=1}^{N}a_j \\phi_{j}=0\n\\] then, \\(a_j=0,\\forall j=1,2,\\cdots,N\\) . Because the basis functions are independent the matrix \\(\\mathbf{K}\\) is non-singular and invertible. These span of these N basis functions forms a function space given by\n\\[\nS:=span\\left\\{\\phi_{i}\\right \\}:=\\left \\{ u_{N} \\vert u_N=\\sum_{i=1}^{N}a_j \\phi_{j} \\right \\}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Approximate solution</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html",
+    "href": "outline-of-fem/general-formulation-oned.html",
+    "title": "Generalized formulation in one dimension",
+    "section": "",
+    "text": "Functional space\nOnce again consider the following differential equation:\n\\[\n-\\frac{d}{dx}\\left(\\nu\\frac{du}{dx}\\right)+ku-f(x)=0,\\text{ on }x\\in\\left[0,L\\right]\n\\]\nLet \\(\\delta u\\) be a function (belonging to some functional space) defined on the line interval \\(\\left[0,L\\right]\\), then we focus on following integral form (variational form)\n\\[\n\\int_{0}^{L}\\delta u\\left(-\\frac{d}{dx}\\left(\\nu\\frac{du}{dx}\\right)+ku-f(x)\\right)dx=0\n\\]\nnoting that\n\\[\n\\delta u\\frac{d}{dx}\\left(\\nu\\frac{du}{dx}\\right)=\\frac{d}{dx}\\left(\\delta u\\nu\\frac{du}{dx}\\right)-\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}\n\\]\nwe obtain the following\n\\[\n\\begin{split}\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx\\\\ =\\int_{0}^{L}\\delta uf(x)dx+\\int_{0}^{L}\\frac{d}{dx}\\left(\\delta u\\nu\\frac{du}{dx}\\right)dx \\end{split}\n\\]\n\\[\n\\begin{split}\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx\\\\ =\\int_{0}^{L}\\delta uf(x)dx+\\left(\\delta u\\nu\\frac{du}{dx}\\right)_{x=L}-\\left(\\delta u\\nu\\frac{du}{dx}\\right)_{x=0} \\end{split}\n\\]\nNow the big question is where does \\(\\delta u\\) and \\(u\\) belong? To get this answer, in the above variational form, let us put \\(\\delta u=u\\) and assume that \\(u\\) vanishes at the boundary:\n\\[\n\\int_{0}^{L}\\frac{d u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L} ukudx=\\int_{0}^{L} f(x)dx\n\\]\nNow we can see that both \\(u,\\frac{d u}{dx}\\) should be finite in order to get finite value of integrals on the left hand side. Moreover, the left hand side integral represents the variation of the potential energy of the system which is denoted by \\(U(u)\\):\n\\[\nU(u):=\\frac{1}{2}\\int_{0}^{L}\\left ( \\nu(\\frac{du}{dx})^2+ku^2 \\right )dx\n\\]\nNow we are looking for those function which has finite value of \\(U\\), we call the space of these functions as energy space, denoted by \\(E([0,L])\\):\n\\[\nE([0,L]):=\\left \\{ u \\vert U(u) &lt; \\infty \\right \\}\n\\]\nNow we want \\(u\\) to satisfy the boundary conditions \\(u(0)=u(L)=0\\), however, not all functions in \\(E([0,L])\\) will fulfill this condition. Therefore, we are looking for a subspace of \\(E([0,L])\\), denoted here by \\(E^{0}([0,L])\\) such that\n\\[\nE^0([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(0)=u(L)=0 \\right \\}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html#essential-boundary-condition",
+    "href": "outline-of-fem/general-formulation-oned.html#essential-boundary-condition",
+    "title": "Generalized formulation in one dimension",
+    "section": "Essential boundary condition",
+    "text": "Essential boundary condition\nTo proceed further we will assume that \\(u \\in \\tilde{E}[0,L]\\) and \\(\\delta u \\in E^{0}[0,L]\\), where both these spaces are subspaces of energy-space. The exact definition of these two spaces will depend upon the type of essential boundary condition as discussed below.\nCase-1: When \\(u(0)=u(L)=0\\), then\n\\[\n\\tilde{E}[0,L]=E^0([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(0)=u(L)=0 \\right \\},\n\\]\nThe variation form is given by\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx=\\int_{0}^{L}\\delta uf(x)dx\n\\]\nCase-2: When \\(u(0)=g_0, u(L)=g_L\\), then\n\\[\n\\tilde{E}([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(0)=g_{0},u(L)=g_{L} \\right \\},\n\\]\nand \\(E^0[0,L]\\) is same as the one defined in Case-1. The variational form is same as the Case-1.\nCase-3: When \\(u(0)=g_{0}\\), then\n\\[\n\\tilde{E}([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(0)=g_{0} \\right \\},\n\\]\n\\[\n{E}^{0}([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(0)=0 \\right \\},\n\\]\nThe variation form is given by:\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx=\\int_{0}^{L}\\delta uf(x)dx+\\left(\\delta u\\nu\\frac{du}{dx}\\right)_{x=L}\n\\]\nCase-4: When \\(u(L)=g_{L}\\), then\n\\[\n\\tilde{E}([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(L)=g_{L} \\right \\},\n\\]\n\\[\n{E}^{0}([0,L]):=\\left \\{ u \\vert u \\in E([0,L]), u(L)=0 \\right \\},\n\\]\nThe variation form is given by:\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx=\\int_{0}^{L}\\delta uf(x)dx-\\left(\\delta u\\nu\\frac{du}{dx}\\right)_{x=0}\n\\]\nIn is evident from the above discussion that the choice of spaces for test and trial functions depends upon the type of essential boundary conditions. It is worth noting that the test function \\(\\delta u\\) vanishes at those points where \\(u\\) is prescribed.\nThere is way to deal with the essential boundary condition. In this method we write the solution as follows\n\\[\nu(x) = u_f+u_p\n\\]\nwhere, \\(u_{f} \\in E^{0}[0,L]\\), that is, it vanishes at the boundary. We can select \\(u_p\\) such that \\(u\\) satisfy the boundary condition. Usually, \\(u_p\\) depends upon the boundary value of \\(u\\). Now the variational form reads:\n\\[\n\\begin{split}\\int_{0}^{L}\\frac{d\\delta u_{f}}{dx}\\nu\\frac{du_{f}}{dx}dx+\\int_{0}^{L}\\delta u_{f}ku_{f}dx & =\\int_{0}^{L}\\delta u_{f}f(x)dx\\\\ & -\\int_{0}^{L}\\frac{d\\delta u_{f}}{dx}\\nu\\frac{du_{p}}{dx}dx\\\\ & -\\int_{0}^{L}\\delta u_{f}ku_{p}dx \\end{split}\n\\]\nIn this case \\(\\delta u_{f}, u_f \\in E^{0}[0,L]\\).",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html#neumann-boundary-condition",
+    "href": "outline-of-fem/general-formulation-oned.html#neumann-boundary-condition",
+    "title": "Generalized formulation in one dimension",
+    "section": "Neumann boundary condition",
+    "text": "Neumann boundary condition\nWhen we specify the value of \\(\\nu \\frac{du}{dx}\\) on the boundary, then these type of boundary conditions are called Neumann boundary condition or natural boundary condition.\nNote that we do not prescribe Essential boundary condition and Neumann boundary condition for a given component on the same boundary of the computation domain.\nCase-1: We prescribe Neumann boundary on both ends.\n\\[\n\\nu \\frac{du}{dx}\\vert_{x=0} = F_0\n\\]\n\\[\n\\nu \\frac{du}{dx}\\vert_{x=L} = F_L\n\\]\nThen the variational form reads:\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx=\\int_{0}^{L}\\delta uf(x)dx+\\delta u(L) F_L-\\delta u(0) F_0\n\\]\nBoth \\(\\delta u, u \\in E[0,L]\\), that is \\(\\tilde{E}[0,L]=E^{0}[0,L]=E[0,L]\\).\n\n\n\n\n\n\nBecause we have not prescribed essential boundary conditions there is no need for \\(\\delta u\\) to vanish on the boundary.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html#robin-boundary-condition",
+    "href": "outline-of-fem/general-formulation-oned.html#robin-boundary-condition",
+    "title": "Generalized formulation in one dimension",
+    "section": "Robin boundary condition",
+    "text": "Robin boundary condition\nRobin boundary condition is a combination of essential and Neumann boundary in the sense that:\n\\[\na u + b \\frac{du}{dx} = c, \\text{ on boundary}\n\\]\nwhere, \\(a,b,c\\) are constants.\nWe consider the robin boundary condition of the following form:\n\\[\n\\nu \\frac{du}{dx}\\vert_{x=0} = \\beta_{0}(u(0)-U_0)\n\\]\n\\[\n\\nu \\frac{du}{dx}\\vert_{x=L} = \\beta_{L}(U_L-u(L))\n\\]\nwhere, \\(\\beta_{0}, \\beta_{L}, U_0, U_L\\) are constants.\nThe variation form is given by:\n\\[\n\\begin{split}\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx\\\\ +\\delta u(0)\\beta_{0}u(0)+\\delta u(L)\\beta_{L}u(L)=\\\\ \\int_{0}^{L}\\delta uf(x)dx+\\delta u(L)\\beta_{L}U_{L}-\\delta u(0)\\beta_{0}U_{0} \\end{split}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html#rayleigh-ritz-method",
+    "href": "outline-of-fem/general-formulation-oned.html#rayleigh-ritz-method",
+    "title": "Generalized formulation in one dimension",
+    "section": "Rayleigh-Ritz method",
+    "text": "Rayleigh-Ritz method\nConsider the following problem:\n\\[\n-\\frac{d}{dx}\\left(\\nu\\frac{du}{dx}\\right)+ku-f(x)=0,\\text{ on }x\\in\\left[0,L\\right]\n\\]\nwith homogeneous Dirichlet boundary conditions \\(u(0)=u(L)=0\\).\nThen Rayleigh-Ritz method approximate the solution by\n\\[\nu\\approx\\sum_{I=1}^{N}\\phi_{I}a_{I},\n\\]\nwhere, \\(\\phi_{I}\\) are the independent basis functions, and \\(a_{I}\\) are the arbitrary constants. It is important to note that \\(\\phi_{I}\\) satisfies the boundary condition, therefore, \\(u\\) satisfy the boundary condition. Now, we substitute this approximation in the the following variation form.\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx+\\int_{0}^{L}\\delta ukudx =\\int_{0}^{L}\\delta uf(x)dx\n\\]\n\\[\n\\left[\\int_{0}^{L}\\frac{d\\phi_{I}}{dx}\\nu\\frac{d\\phi_{J}}{dx}dx\\right]a_{J}+\\left[\\int_{0}^{L}\\phi_{I}k\\phi_{J}dx\\right]a_{J}=\\int_{0}^{L}\\phi_{I}f(x)dx\n\\]\nThis can be written in the following matrix-vector form:\n\\[\n\\left[{\\bf K}\\right]\\left\\{ {\\bf A}\\right\\} =\\left\\{ {\\bf F}\\right\\}\n\\]\n\nExample of basis function\n\\[\n\\phi_{I} = x^{I}(L-x)\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/general-formulation-oned.html#exercise",
+    "href": "outline-of-fem/general-formulation-oned.html#exercise",
+    "title": "Generalized formulation in one dimension",
+    "section": "Exercise",
+    "text": "Exercise\n\nSee Exercise 2.3.2 to 2.3.4 of Szabo and Babuska (2011).",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Generalized formulation in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html",
+    "href": "outline-of-fem/fem-in-oned.html",
+    "title": "FEM in one dimension",
+    "section": "",
+    "text": "Notations\nIn Rayleigh-Ritz method the basis functions are analytical functions defined on the entire solution domain. In FEM, the computation domain \\([0,L]\\) is divided into small line elements. These line elements can be linear (Line2), quadratic (Line3), cubic (Line4), and so on. A Line2 element consists 2 nodes, Line3 element consists 3 nodes.\nThe basis functions are defined over these finite element, therefore, these functions are local in nature (compact). These basis functions are not uniformly zero over atmost two elements.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#notations",
+    "href": "outline-of-fem/fem-in-oned.html#notations",
+    "title": "FEM in one dimension",
+    "section": "",
+    "text": "Mesh is a collection of finite elements. The total number of elements inside the mesh will be denoted by \\(N_{elem}\\).\nThe total number of nodes in the mesh is denoted by \\(N_{node}\\). They are numbered from 1 to \\(N_{node}\\).\nWe will use \\(e\\) in the superscript or subscript to denote the \\(e=1,\\cdots,N_{elem}\\) of the mesh.\nWe will denote the discretize computation domain by \\(\\Omega\\), and the element domain by \\(\\Omega_{e}\\)\nThe nodes of an elements are numbered locally from 1, 2, to \\(N_{ns}\\), where \\(N_{ns}\\) is the number of node in spatial finite element. There is mapping between local node numbers and the global node numbers. So, the global node numbers are denoted by \\(n_{1},n_{2},\\cdots,n_{ns}\\). We will use \\(I,J\\) to denote the node number.\nThe shape function of \\(I\\)th node will be denoted by \\(N^I\\), where I is the global node. The shape function of \\(I\\)th local node in an element \\(e\\) will be denoted by \\(N_{e}^{I}\\). We will interchangeably used \\(N^I\\) and \\(N^I_{e}\\).\nWe will denote \\(u_{I}\\) as the value of \\(u\\) at the Ith global node. We will use \\(u_{I}^{e}\\) to denote the value of \\(u\\) inside element \\(e\\) at the Ith local node.\nWe will denote the finite element approximation by \\(u^h(x)\\). The restriction of \\(u^h(x)\\) inside an element \\(e\\) will be denoted by \\(u^h_{e}\\).",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#finite-elements",
+    "href": "outline-of-fem/fem-in-oned.html#finite-elements",
+    "title": "FEM in one dimension",
+    "section": "Finite elements",
+    "text": "Finite elements\nThe spatial domain of finite element is given by \\(\\Omega_{e}:=(x_{e},x_{e+1})\\), and the domain of reference element is denoted by \\(\\hat{\\Omega}:=(-1,1)\\). The coordinates in physical and reference elements are denoted by \\(x\\) and \\(\\xi\\), respectively. We defined the following mapping between the reference element and the physical element.\n\n\n\n\n\n\nFigure 2: Mapping between reference and physical element\n\n\n\n\\[\nx(\\xi) = \\frac{1-\\xi}{2}x_{e}+\\frac{1+\\xi}{2}x_{e+1},\\forall \\xi \\in \\hat{\\Omega}\n\\]\nIt can be seen that \\(x_{e}=x(-1)\\) and \\(x_{e+1}=x(+1)\\).\nIn this case we can also define the inverse mapping as:\n\\[\n\\xi = \\frac{2x-x_{e}-x_{e+1}}{x_{e+1}-x_{e}}\\forall x\\in\\Omega_{e}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#shape-function-based-on-lagrange-polynomials",
+    "href": "outline-of-fem/fem-in-oned.html#shape-function-based-on-lagrange-polynomials",
+    "title": "FEM in one dimension",
+    "section": "Shape function based on Lagrange polynomials",
+    "text": "Shape function based on Lagrange polynomials\nLet us denote the location of nodes of reference line element by \\(\\xi_{I},I=1,{p+1}\\), where \\(p\\) is the order of polynomial. Also note that \\(\\xi_{1}=-1\\) and \\(\\xi_{2}=+1\\) as shown in Figure below.\n\n\n\n\n\n\nFigure 3: Reference element for Lagrange polynomial\n\n\n\nThe Lagrange polynomial is given by\n\\[\nN^{I}(\\xi)=\\prod_{J=1,J\\ne I}^{p+1}\\frac{\\xi-\\xi_{J}}{\\xi_{I}-\\xi_{J}},I=1,2,\\cdots p+1,\\forall\\xi\\in\\hat{\\Omega}\n\\]\nIt can be seen that \\(N^I(\\xi_{J})=\\delta_{IJ}\\).\n\nLinear shape function\n\\[\nN_{1}=\\frac{1-\\xi}{2}\n\\]\n\\[\nN_{2}=\\frac{1+\\xi}{2}\n\\]\n\n\nQuadratic Lagrange shape functions\n\\[\nN_{1}=\\frac{\\xi-1}{-1-1}\\frac{\\xi-\\xi_{3}}{-1-\\xi_{3}}=\\frac{\\left(\\xi-\\xi_{3}\\right)\\left(\\xi-1\\right)}{2(1+\\xi_{3})}\n\\]\n\\[\nN_{2}=\\frac{\\xi+1}{1+1}\\frac{\\xi-\\xi_{3}}{1-\\xi_{3}}=\\frac{\\left(\\xi-\\xi_{3}\\right)\\left(\\xi+1\\right)}{2(1-\\xi_{3})}\n\\]\n\\[\nN_{3}=\\frac{\\xi+1}{\\xi_{3}+1}\\frac{\\xi-1}{\\xi_{3}-1}=\\frac{\\left(\\xi^{2}-1\\right)}{(\\xi_{3}^{2}-1)}\n\\]\n\nIf the nodes in reference elements are uniformly spaced then \\(\\xi_{3}=0\\) in the above expression.\n\n\n\nCubic Lagrange shape functions\n\\[\nN_{1}=\\frac{\\xi-1}{-1-1}\\frac{\\xi-\\xi_{3}}{-1-\\xi_{3}}\\frac{\\xi-\\xi_{4}}{-1-\\xi_{4}}=(-1)^{3}\\frac{\\left(\\xi-1\\right)\\left(\\xi-\\xi_{3}\\right)\\left(\\xi-\\xi_{4}\\right)}{2(1+\\xi_{3})(1+\\xi_{4})}\n\\]\n\\[\nN_{2}=\\frac{\\xi+1}{1+1}\\frac{\\xi-\\xi_{3}}{1-\\xi_{3}}\\frac{\\xi-\\xi_{4}}{1-\\xi_{4}}=\\frac{\\left(\\xi+1\\right)\\left(\\xi-\\xi_{3}\\right)\\left(\\xi-\\xi_{4}\\right)}{2(1-\\xi_{3})(1-\\xi_{4})}\n\\]\n\\[\nN_{3}=\\frac{\\xi+1}{\\xi_{3}+1}\\frac{\\xi-1}{\\xi_{3}-1}\\frac{\\xi-\\xi_{4}}{\\xi_{3}-\\xi_{4}}=\\frac{\\left(\\xi^{2}-1\\right)\\left(\\xi-\\xi_{4}\\right)}{(\\xi_{3}^{2}-1)\\left(\\xi_{3}-\\xi_{4}\\right)}\n\\]\n\\[\nN_{4}=\\frac{\\xi+1}{\\xi_{4}+1}\\frac{\\xi-1}{\\xi_{4}-1}\\frac{\\xi-\\xi_{3}}{\\xi_{4}-\\xi_{3}}=\\frac{\\left(\\xi^{2}-1\\right)\\left(\\xi-\\xi_{3}\\right)}{(\\xi_{4}^{2}-1)\\left(\\xi_{4}-\\xi_{3}\\right)}\n\\]",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#hierarchic-shape-functions",
+    "href": "outline-of-fem/fem-in-oned.html#hierarchic-shape-functions",
+    "title": "FEM in one dimension",
+    "section": "Hierarchic shape functions",
+    "text": "Hierarchic shape functions\n\nN1, N2\n\\[\nN_{1}=\\frac{1-\\xi}{2}\n\\]\n\\[\nN_{2}=\\frac{1+\\xi}{2}\n\\]\n\n\nN3\n\\[\nN_{3}=\\frac{1}{2}\\sqrt{\\frac{3}{2}}\\left(\\xi^{2}-1\\right)\n\\]\n\n\nN4\n\\[\nN_{4}=\\frac{5}{2\\sqrt{10}}\\xi\\left(\\xi^{2}-1\\right)\n\\]\n\n\nN5\n\\[\nN_{5}=\\frac{1}{2}\\sqrt{\\frac{7}{2}}\\left(5\\xi^{2}-1\\right)\\left(\\xi^{2}-1\\right)\n\\]\n\n\nLegendre polynomial based Hierarchic shape functions\n\\[\nN_{i}=\\sqrt{\\frac{2i-3}{2}}\\int_{-1}^{\\xi}P_{i-2}(\\theta)d\\theta,\\quad i=3,4,\\cdots,p+1,p\\ge2\n\\]\nHere, \\(P_{i}\\) are the Legendre polynomials. These shape functions have the following properties.",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#finite-element-matrices",
+    "href": "outline-of-fem/fem-in-oned.html#finite-element-matrices",
+    "title": "FEM in one dimension",
+    "section": "Finite element matrices",
+    "text": "Finite element matrices\nIn FEM the coefficient matrices are computed element by element. These coefficient matrices are called local matrices, and they are assembled to form the global matrices.\n\nStiffness matrix\n\\[\n\\int_{0}^{L}\\frac{d\\delta u}{dx}\\nu\\frac{du}{dx}dx =\n\\]\n\n\nMass matrix",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#finite-element-vectors",
+    "href": "outline-of-fem/fem-in-oned.html#finite-element-vectors",
+    "title": "FEM in one dimension",
+    "section": "Finite element vectors",
+    "text": "Finite element vectors",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#assembly",
+    "href": "outline-of-fem/fem-in-oned.html#assembly",
+    "title": "FEM in one dimension",
+    "section": "Assembly",
+    "text": "Assembly",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#essential-boundary-condition",
+    "href": "outline-of-fem/fem-in-oned.html#essential-boundary-condition",
+    "title": "FEM in one dimension",
+    "section": "Essential boundary condition",
+    "text": "Essential boundary condition",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "outline-of-fem/fem-in-oned.html#post-processing",
+    "href": "outline-of-fem/fem-in-oned.html#post-processing",
+    "title": "FEM in one dimension",
+    "section": "Post-processing",
+    "text": "Post-processing",
+    "crumbs": [
+      "An outline of the finite element method (1D case)",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FEM in one dimension</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html",
+    "href": "diffusion.html",
+    "title": "FEM for diffusion equation",
+    "section": "",
+    "text": "Governing equation\n\\[\n-\\nabla^{2}u\\left(\\mathbf{x}\\right)=f\\left(\\mathbf{x}\\right),\\text{ in }\\Omega\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#boundary-conditions",
+    "href": "diffusion.html#boundary-conditions",
+    "title": "FEM for diffusion equation",
+    "section": "Boundary conditions",
+    "text": "Boundary conditions\n\nDirichlet boundary condition\n\\[\nu=g, \\text{ on } \\Gamma_{g}\n\\]\n\n\nNeumann boundary condition\n\\[\n\\frac{\\partial u}{\\partial n} = h, \\text{ on } \\Gamma_{h}\n\\]\nHere, \\(h\\) denotes the outgoing flux.\n\n\nMixed/Generalized boundary condition\n\\[\n\\alpha u+\\beta\\frac{\\partial u}{\\partial n}=g\\text{ on }\\Gamma_{g}\n\\]\n\nThe coefficients \\(\\alpha\\) and \\(\\beta\\) can be constant, or varying in space, or with solution\nIf the coefficients depends upon the solution, then we obtain a nonlinear diffusion equation",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#pure-neumann-problem",
+    "href": "diffusion.html#pure-neumann-problem",
+    "title": "FEM for diffusion equation",
+    "section": "Pure Neumann problem",
+    "text": "Pure Neumann problem\nIf at all boundary Neumann boundary condition is prescribed, then the solution to the problem can be unique up to an additive constant.\nAlso, by noting following identity,\n\\[\n-\\int\\nabla\\cdot\\nabla u\\Omega=-\\int\\nabla u\\cdot\\mathbf{n}ds=\\int fd\\Omega,\n\\]\nwe can derive the following necessary condition, which is also known as the compatibility condition, for the existence of a solution to a Neumann problem.\n\\[\n\\int_{\\Gamma}gd\\Omega+\\int_{\\Omega}fd\\Omega=0\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#example-1",
+    "href": "diffusion.html#example-1",
+    "title": "FEM for diffusion equation",
+    "section": "Example-1",
+    "text": "Example-1\n\nHomogeneous Dirichlet boundary condition\n\\(f(x)=1\\)\nSquare shaped domain \\(\\Omega := (-1,1)\\times (-1,1)\\)\n\n\nAnalytical solutions\n\\[\nu\\left(x,y\\right)=\\frac{1-x^{2}}{2}-\\frac{16}{\\pi^{3}}\\sum_{k=1,odd}^{\\infty}\\left\\{ \\frac{1}{k^{3}\\sinh(k\\pi)}\\sin\\left(\\frac{k\\pi(1+x)}{2}\\right)\\times\\left(\\sinh\\frac{k\\pi(1+y)}{2}+\\sinh\\frac{k\\pi(1-y)}{2}\\right)\\right\\}\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#example-2",
+    "href": "diffusion.html#example-2",
+    "title": "FEM for diffusion equation",
+    "section": "Example-2",
+    "text": "Example-2\n\nHomogeneous Dirichlet boundary condition\n\\(f(x)=1\\)\nSquare shaped domain \\(\\Omega := (-1,1)\\times (-1,1)\\) minus \\((-1,0] \\times (-1, 0]\\)\n\nThe solution \\(u\\) is closely approximated at the origin by the function.\n\\[\nu(r,\\theta)=r^{2/3}\\sin\\left(\\frac{2\\theta+\\pi}{3}\\right)\n\\]\n\\(\\theta\\) is the angle from vertical axis.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#example-3",
+    "href": "diffusion.html#example-3",
+    "title": "FEM for diffusion equation",
+    "section": "Example-3",
+    "text": "Example-3\nConsider the following manufactured solutions.\n\\[\nu(x,y)=\\frac{2(1+y)}{(3+x)^{2}+(1+y)^{2}}\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#weak-formulation",
+    "href": "diffusion.html#weak-formulation",
+    "title": "FEM for diffusion equation",
+    "section": "Weak formulation",
+    "text": "Weak formulation\nA sufficiently smooth funciton \\(u\\) satisfying the Laplace equation and boundary condition is known as the classical solution to BVP. For Dirichlet boundary value problem, \\(u\\) is a classical solution if it has continuous second order derivative in \\(\\Omega\\) and it is at-least continuous near and at the boundary.\n\nIn cases of non-smooth domains or discontinuous source functions, the function \\(u\\) satisfying the BVP may not be smooth enough to be regarded as a classical solution\n\nIn such cases, an alternative description of the BVP is required, which is less restrictive in terms of smoothness of the admissible solution. This alternative description of BVP is what we referred to as weak formulation.\nTo derive a weak formulation of a Poisson problem, we require that for an appropriate set of test functions, \\(\\delta u\\)\n\\[\n\\int_{\\Omega}\\delta u\\left(\\nabla^{2}u+f\\right)d\\Omega=0\n\\]\nNow, using integration by parts, we can derive the weak formulation, which states that find the solution \\(u\\) in some functional space such that for all \\(\\delta u\\) in some functional space, following is holds true.\n\\[\n\\int_{\\Omega}\\nabla\\delta u\\cdot\\nabla ud\\Omega-\\int_{\\Omega}\\delta ufd\\Omega-\\int_{\\Gamma}\\delta u\\nabla u\\cdot\\mathbf{n}ds=0\n\\]\n\nL2 space\n\\[\nL_{2}(\\Omega):=\\left\\{ u:\\Omega\\rightarrow\\mathbb{R}\\vert\\int_{\\Omega}u^{2}d\\Omega&lt;\\infty\\right\\}\n\\]\n\n\nSobolev space\n\\[\n\\mathcal{H}^{1}(\\Omega):=\\left\\{ u:\\Omega\\rightarrow\\mathbb{R}\\vert u,\\frac{\\partial u}{\\partial x_{i}}\\in L_{2}\\left(\\Omega\\right),i=1,2,3\\right\\}\n\\]\nNow we can define the functional space for test function and solution.\n\\[\n\\mathbb{V}:=\\left\\{ u\\in\\mathcal{H}^{1}\\left(\\Omega\\right)\\vert u=0,\\text{on}\\Gamma_{g}\\right\\}\n\\]\n\\[\n\\mathbb{S}:=\\left\\{ u\\in\\mathcal{H}^{1}\\left(\\Omega\\right)\\vert u=g,\\text{on}\\Gamma_{g}\\right\\}\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#galerkin-finite-element-method",
+    "href": "diffusion.html#galerkin-finite-element-method",
+    "title": "FEM for diffusion equation",
+    "section": "Galerkin Finite Element Method",
+    "text": "Galerkin Finite Element Method\nIt is now time to present the idea of approximating \\(u\\) by taking finite dimensional subspace of the solution space \\(\\mathbb{S}\\). We will denote the finite dimensional space by \\(\\mathbb{S}^{h}\\)\n\\[\na(u,v)=\\int_{\\Omega}{\\nabla {u} \\cdot \\nabla {v}}{d\\Omega}\n\\]\n\\[\nl(v):= \\int_{\\Omega}{vf}d\\Omega + \\int_{\\Gamma_{h}}{vh}dS\n\\]\nWeak form\nFind \\(u \\in \\mathcal{H}^{1}_{E}\\) such that\n\\[\na(u,v)=l(v), \\text{ for all } v\\in \\mathcal{H}^{1}_{E0}\n\\]\nThe corresponding discrete problem is given by\nFind \\(u_{h} \\in \\mathbb{S}^{h} \\subset \\mathcal{H}^{1}_{E}\\) such that\n\\[\na(u_{h},v_{h})=l(v_{h}), \\text{ for all } v_{h} \\in \\mathbb{S}_{0}^{h} \\subset \\mathcal{H}_{E0}^{1}\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "diffusion.html#best-approximation-property",
+    "href": "diffusion.html#best-approximation-property",
+    "title": "FEM for diffusion equation",
+    "section": "Best approximation property",
+    "text": "Best approximation property\n\\[\na(u,v)=l(v),\\forall v\\in\\mathcal{H}_{0}^{1}\n\\]\n\\[\n\\begin{aligned}a\\left(u,v\\right)-a(u_{h},v) & =l(v)-a(u_{h},v),\\forall v\\in\\mathcal{H}_{0}^{1},\\forall u_{h}\\in\\mathbb{S}^{h}\\subset\\mathcal{H}^{1}\\\\\na(u-u_{h},v) & =l(v)-a(u_{h},v),\\forall v\\in\\mathcal{H}_{0}^{1},\\forall u_{h}\\in\\mathbb{S}^{h}\\subset\\mathcal{H}^{1}\\\\\na(e,v) & =l(v)-a(u_{h},v),\\forall v\\in\\mathcal{H}_{0}^{1},\\forall u_{h}\\in\\mathbb{S}^{h}\\subset\\mathcal{H}^{1}\n\\end{aligned}\n\\]\nNote that \\(e:=u-u_h \\in \\mathcal{H}_{0}^{1}\\).\nUsing Galerkin Orthogonality Property we can shown that\n\\[\n\\left\\Vert \\nabla\\left(u-u_{h}\\right)\\right\\Vert \\le\\left\\Vert \\nabla\\left(u-v_{h}\\right)\\right\\Vert ,\\forall v_{h}\\in\\mathbb{S}^{h}\n\\]\nBy using Poincare-Friedrichs-Inequality and Trace-Inequality we can also show that\n\\[\n\\Vert u-u_{h}\\Vert_{H^{1}}\\le C_{\\Omega}\\min_{v_{h}\\in\\mathbb{S}^{h}}\\left(\\Vert u-u_{h}\\Vert_{H^{1}}\\right)\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FEM for diffusion equation</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "8  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Books\nThis book has a website with useful references to FEM",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#books",
+    "href": "references.html#books",
+    "title": "References",
+    "section": "",
+    "text": "Introduction to finite element analysis: Formulation, Verification and Validation by Barna Szabo and Ivo Babuska, 2011\n\n\n\n\n\nFinite element methods: A practical guide, by Jonathan Whiteley, 2017\n\n\n\n\n\nFinite element analysis with error estimators, by J. E. Akin, 2005. This book talks about the adaptive finite element methods.\n\n\n\n\n\nUnderstanding and implementing the finite element methods, M.S. Gockenbach, 2006. This book talks about the mathematics and computation of finite element method. The finite element code is written in MATLAB.\n\n\n\n\n\nA first course in finite element method, Logan, 2016\n\n\n\n\n\n\nA first course in finite elements, by Jacob Fish and Ted Belytschko, 2007.\n\n\n\n\n\nFinite element procedures, Bathe, 1995\n\n\n\n\n\nThe finite element method: its basis and fundamentals by O. C. Zienkiewicz, R. L. Taylor, and J. Z. Zhu",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#papers",
+    "href": "references.html#papers",
+    "title": "References",
+    "section": "Papers",
+    "text": "Papers",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

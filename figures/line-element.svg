@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.34874mm"
+   height="26.209145mm"
+   viewBox="0 0 115.34874 26.209145"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   sodipodi:docname="figure-5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.5500842"
+     inkscape:cx="247.40592"
+     inkscape:cy="134.50882"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid890"
+       originx="-34.421524"
+       originy="-22.985983" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect894"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect894-5"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect894-5-6"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.421524,-22.985982)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.32596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.041666,31.75 c 14.993168,0 29.986225,0 44.979167,0"
+       id="path892"
+       inkscape:path-effect="#path-effect894"
+       inkscape:original-d="m 37.041666,31.75 c 14.993168,2.64e-4 29.986225,2.64e-4 44.979167,0"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998"
+       cx="36.421524"
+       cy="31.320124"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-7"
+       cx="81.62442"
+       cy="31.318989"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.32596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 103.1875,31.75 c 14.99316,0 29.98622,0 44.97917,0"
+       id="path892-8"
+       inkscape:path-effect="#path-effect894-5"
+       inkscape:original-d="m 103.1875,31.75 c 14.99316,2.64e-4 29.98622,2.64e-4 44.97917,0"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-2"
+       cx="102.56736"
+       cy="31.320124"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-2-0"
+       cx="124.71186"
+       cy="31.356501"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-7-6"
+       cx="147.77026"
+       cy="31.318987"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.32596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 55.5625,47.625 c 14.99316,0 29.98622,0 44.97917,0"
+       id="path892-8-6"
+       inkscape:path-effect="#path-effect894-5-6"
+       inkscape:original-d="m 55.5625,47.625 c 14.99316,2.64e-4 29.98622,2.64e-4 44.97917,0"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-2-4"
+       cx="54.94236"
+       cy="47.195126"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-2-0-6"
+       cx="70.621864"
+       cy="47.125366"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-2-0-6-8"
+       cx="86.403801"
+       cy="47.09774"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#c8b7be;stroke:#000000;stroke-width:0.250515;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path998-7-6-2"
+       cx="100.14526"
+       cy="47.193989"
+       rx="1.8747426"
+       ry="1.8747425"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.916664"
+       y="26.458332"
+       id="text19409"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19407"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="52.916664"
+         y="26.458332">Line2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.60542"
+       y="26.20232"
+       id="text19409-9"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19407-6"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="118.60542"
+         y="26.20232">Line3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="73.290375"
+       y="42.945648"
+       id="text19409-9-0"
+       inkscape:export-filename="/home/easifem/snap/inkscape/10154/path892.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19407-6-7"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="73.290375"
+         y="42.945648">Line4</tspan></text>
+  </g>
+</svg>
