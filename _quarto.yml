@@ -33,6 +33,14 @@ book:
   chapters:
     - index.md
     - intro.md
+    - part: "An outline of the finite element method (1D case)"
+      chapters:
+        - ./outline-of-fem/mathematical-model.md
+        - ./outline-of-fem/conceptualization.md
+        - ./outline-of-fem/approximate-solution.md
+        - ./outline-of-fem/general-formulation-oned.md
+        - ./outline-of-fem/fem-in-oned.md
+    - ./diffusion.md
     - summary.md
     - references.md
   # appendices:
